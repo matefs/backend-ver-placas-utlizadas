@@ -1,0 +1,22 @@
+{
+  "veiculos": [
+    {
+      "id": 1,
+      "placa": "MAT-1234",
+      "card": "RISK1",
+      "descricao": "Placa utilizado no teste para troca de veículos do LOG"
+    },
+    {
+      "id": 3,
+      "placa": "RAS-1238",
+      "card": "RISK123",
+      "descricao": "Descrição do teste que utiliza a placa "
+    },
+    {
+      "id": 4,
+      "placa": "GAY-1234",
+      "card": "RISK123",
+      "descricao": "Descrição do teste que utiliza a placa "
+    }
+  ]
+}
