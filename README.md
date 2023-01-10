@@ -1,7 +1,7 @@
 # Backend com json-server  
 
-Porta padrão: 3001
-Acessar api: http://localhost:3001/
+1. Porta padrão: 3001
+2. Acessar api: http://localhost:3001/
 
 `/veiculos`
 
