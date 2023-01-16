@@ -1,7 +1,8 @@
 # Backend com json-server  
- Instale o json server: ` npm install -g json-server`
-1. Porta padrão: 3001
-2. Acessar api: http://localhost:3001/
+
+1. Instale o json server: ` npm install -g json-server`
+2. Rodar o json server: ` json-server --watch db.json`
+3. Acessar api: http://localhost:3001/
 
 `/veiculos`
 
