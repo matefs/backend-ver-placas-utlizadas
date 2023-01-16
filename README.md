@@ -1,5 +1,5 @@
 # Backend com json-server  
-
+ Instale o json server: ` npm install -g json-server`
 1. Porta padrão: 3001
 2. Acessar api: http://localhost:3001/
 
